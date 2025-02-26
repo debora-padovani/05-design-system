@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@test-ignite-ds/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@test-ignite-ds/eslint-config": "*",
+    "@test-ignite-ds/tokens": "*",
+    "@test-ignite-ds/ts-config": "*",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "react": "^19.0.0",

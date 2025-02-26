@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@test-ignite-ds/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@test-ignite-ds/eslint-config": "*",
+    "@test-ignite-ds/react": "*",
+    "@test-ignite-ds/tokens": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^19.0.0",

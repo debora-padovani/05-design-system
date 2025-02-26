@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@test-ignite-ds/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

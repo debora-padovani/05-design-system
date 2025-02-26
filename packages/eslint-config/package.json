@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@test-ignite-ds/eslint-config",
   "license": "MIT",
   "private": true,
   "devDependencies": {
